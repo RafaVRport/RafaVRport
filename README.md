@@ -1,7 +1,7 @@
 # RafaVR
-Certified Cyber Security Practitioner [Ce-CSP] by CAPSLOCK [2025]
-ISO 27001 Requirements, provided by British Standards Institute (BSI)
-Security+, provided by CompTIA
+- 🛡️ Certified Cyber Security Practitioner [Ce-CSP] by CAPSLOCK [2025]
+- 🛡️ ISO 27001 Requirements, provided by British Standards Institute (BSI)
+- 🛡️ Security+, provided by CompTIA
 - - - 
 # Hi, I'm Rafa VR! 👋
 
@@ -11,8 +11,8 @@ I am a Cyber Security Professional located in UK, driven by safety and consent o
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my cloud certification; Certificate of Cloud Security Knowledge (CCSK), provided by Cloud Security Alliance
-- 🔭 I'm currently pursuing my Certificate in Information Security Management Principles (CISMP), provided by British Computer Society (BCS)
+- 🛡️ I'm currently pursuing my cloud certification; Certificate of Cloud Security Knowledge (CCSK), provided by Cloud Security Alliance
+- 🛡️ I'm currently pursuing my Certificate in Information Security Management Principles (CISMP), provided by British Computer Society (BCS)
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumula
 
 ## My Articles
