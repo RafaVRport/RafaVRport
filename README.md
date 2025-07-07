@@ -1,7 +1,7 @@
 # RafaVR
-- 🛡️ Certified Cyber Security Practitioner [Ce-CSP] by CAPSLOCK [2025]
-- 🛡️ ISO 27001 Requirements, provided by British Standards Institute (BSI)
-- 🛡️ Security+, provided by CompTIA
+- 🛡️ [Certified Cyber Security Practitioner [Ce-CSP] [2025]](https://capslock.ac/)
+- 🛡️ [Certified ISO 27001 Requirements [2025]](https://standardsdevelopment.bsigroup.com/Home/About)
+- 🛡️ [Certified Security+ [2025]](https://www.comptia.org/en-us/certifications/security/)
 - - - 
 # Hi, I'm Rafa VR! 👋
 
