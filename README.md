@@ -10,12 +10,10 @@ I am a Cyber Security Professional located in UK, driven by safety and consent o
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my cloud certification; Certificate of Cloud Security Knowledge (CCSK), provided by Cloud Security Alliance
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumula
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- [JavaScript Engine and Runtime Explained](https://www.freodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 
 ## Tech Stack
@@ -32,13 +30,13 @@ I am a Cyber Security Professional located in UK, driven by safety and consent o
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Complet
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://twitter.com/inttedbot)
+- Read more of my articles on [theenthusiast.dev](https://theenthuiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
