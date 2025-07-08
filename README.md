@@ -2,34 +2,26 @@
 - 🛡️ [Certified Cyber Security Practitioner [Ce-CSP] [2025]](https://capslock.ac/)
 - 🛡️ [Certified ISO 27001 Requirements [2025]](https://standardsdevelopment.bsigroup.com/Home/About)
 - 🛡️ [Certified Security+ [2025]](https://www.comptia.org/en-us/certifications/security/)
+- ❤️‍🔥 Kali Linux Lover 
 - - - 
 # Hi, I'm Rafa VR! 👋
 
-I am a Cyber Security Professional located in UK, driven by safety and consent over the internet, and a love for writing and creating content as hobby. My journey involves delving into the world of computer science, web applications, GRC, SIEM, penetration testing & bug hunty amatuer.
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=RafaVRport&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am a Cyber Security Analyst Professional located in UK, driven by safety and consent over the internet, and a love for writing and content creation. My journey involves delving into the world of web applications, GRC, SIEM tools, penetration testing & curious about bug bounty.
 
 ## 🚀 About Me
 
 - 🛡️ I'm currently pursuing my cloud certification; Certificate of Cloud Security Knowledge (CCSK), provided by Cloud Security Alliance
 - 🛡️ I'm currently pursuing my Certificate in Information Security Management Principles (CISMP), provided by British Computer Society (BCS)
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumula
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freodecamp.org/news/javascript-engine-and-runtime-explained/)
-
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Learning how to hack web application
+  - Exploring SPLUNK in depth
+  - Navigating through the world of Blue Team as profession (as for now)
+  - Reskilling in Web Design
+  - Reskilling in Linux
   - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Diving into SQL and Python
 
  ## 🏆 Achievements
 
