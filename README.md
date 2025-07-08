@@ -21,27 +21,12 @@ I am a Cyber Security Analyst Professional located in UK, driven by safety and c
   - Navigating through the world of Blue Team as profession (as for now)
   - Reskilling in Web Design
   - Reskilling in Linux
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into SQL and Python
+  - Building projects on Python (which later I will add here)
+  - Diving deeper into SQL
 
  ## 🏆 Achievements
 
-- 🌟 Complet
+- 🌟 More than 200 labs in [RangeForce](https://portal.rangeforce.com/)
 
 
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/inttedbot)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
--->
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
