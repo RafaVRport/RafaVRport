@@ -2,11 +2,12 @@
 - 🛡️ [Certified Cyber Security Practitioner [Ce-CSP] [2025]](https://capslock.ac/)
 - 🛡️ [Certified ISO 27001 Requirements [2025]](https://standardsdevelopment.bsigroup.com/Home/About)
 - 🛡️ [Certified Security+ [2025]](https://www.comptia.org/en-us/certifications/security/)
-- ❤️‍🔥 Kali Linux Lover 
+- ❤️‍🔥 Kali Linux Lover
 - - - 
 # Hi, I'm Rafa VR! 👋
 
 I am a Cyber Security Analyst Professional located in UK, driven by safety and consent over the internet, and a love for writing and content creation. My journey involves delving into the world of web applications, GRC, SIEM tools, penetration testing & curious about bug bounty.
+- Navigating through the world of Blue Team as profession (as for now)
 
 ## 🚀 About Me
 
