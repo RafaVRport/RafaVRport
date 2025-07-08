@@ -8,7 +8,7 @@
 - - - 
 # Hi, I'm Rafa VR! 👋
 
-I am a Cyber Security Analyst Professional located in UK, driven by safety and consent over the internet, and a love for writing and content creation. My journey involves delving into the world of web applications, GRC, SIEM tools, penetration testing & curious about bug bounty.
+I am a Cyber Security Analyst Professional located in UK, driven by safety and consent over the internet, and a love for writing and content creation. My journey involves delving into the world of web applications, GRC, SIEM tools, penetration testing & new at bug bounty.
 - Navigating through the world of Blue Team as profession (as for now)
 
 ## 🚀 About Me
