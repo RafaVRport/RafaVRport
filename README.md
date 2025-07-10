@@ -1,10 +1,11 @@
 📚[For Rafa VR's Portfolio click here](https://rafavrport.github.io/skills-github-pages/)
 ---
-# RafaVR Cyber Profile
+# RafaVR Cyber Education
 - 🛡️ [Certified Cyber Security Practitioner [Ce-CSP] [2025]](https://capslock.ac/)
 - 🛡️ [Certified ISO 27001 Requirements [2025]](https://standardsdevelopment.bsigroup.com/Home/About)
 - 🛡️ [Certified Security+ [2025]](https://www.comptia.org/en-us/certifications/security/)
 - ❤️‍🔥 Kali Linux Lover
+- 🎓 Bachelor of Business & Marketing [2008]
 - - - 
 # Hi, I'm Rafa VR! 👋
 
