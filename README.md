@@ -20,9 +20,6 @@ I am a Cyber Security Analyst Professional located in UK, driven by safety and c
 
   - Learning how to hack web application
   - Exploring SPLUNK in depth
-  - Navigating through the world of Blue Team as profession (as for now)
-  - Reskilling in Web Design
-  - Reskilling in Linux
   - Building projects on Python (which later I will add here)
   - Diving deeper into SQL
 
