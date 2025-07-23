@@ -18,9 +18,8 @@ I am a Cyber Security Analyst Professional located in UK, driven by safety and c
 
 ## Currently Exploring
 
-  - How to hack web application (client and server sides)
+  - Django + Visual Studio Code + Python
   - Exploring SPLUNK in depth (IoCs/dashboards/parsing/automating DLP/etc.)
-  - Building projects on Python (which later I will add here)
   - Diving deeper into SQL course by [Harvard](https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home)
 
 
