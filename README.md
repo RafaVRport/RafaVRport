@@ -10,11 +10,10 @@
 # Hi, I'm Rafa VR! 👋
 
 I am a Cyber Security Analyst Professional located in UK, driven by safety and consent over the internet, and a love for writing and content creation. My journey involves delving into the world of web applications, GRC, SIEM tools, and penetration testing.
-
-## About Me
-
+- - -
 - 🛡️ I'm currently pursuing my cloud certification; Certificate of Cloud Security Knowledge (CCSK), provided by Cloud Security Alliance
 - 🛡️ I'm currently pursuing my Certificate in Information Security Management Principles (CISMP), provided by British Computer Society (BCS)
+- - -
 
 ## Currently Exploring
 
