@@ -1,4 +1,4 @@
-📚[For Rafa VR's Portfolio click here](https://rafavrport.github.io/skills-github-pages/)
+📚[For Rafa VR's Cyber Carousels, click here](https://rafavrport.github.io/skills-github-pages/)
 ---
 # RafaVR Cyber Education
 - 🛡️ [Certified Cyber Security Practitioner [Ce-CSP] [2025]](https://capslock.ac/)
