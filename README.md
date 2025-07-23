@@ -17,8 +17,8 @@ I am a Cyber Security Analyst Professional located in UK, driven by safety and c
 
 ## Currently Exploring
 
-  - Django: in Visual Studio Code + Python + database SQL Light Tree + Sequel MongoDB as database backned engine
   - Exploring SPLUNK in depth (IoCs/dashboards/parsing/automating DLP/etc.)
+  - Django: in Visual Studio Code + Python + database SQL Light Tree + Sequel MongoDB as database backned engine
   - Diving deeper into SQL course by [Harvard](https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home)
 
 
