@@ -18,7 +18,7 @@ I am a Cyber Security Analyst Professional located in UK, driven by safety and c
 
 ## Currently Exploring
 
-  - Django + Visual Studio Code + Python
+  - Django + Visual Studio Code + Python + database SQL Light Tree
   - Exploring SPLUNK in depth (IoCs/dashboards/parsing/automating DLP/etc.)
   - Diving deeper into SQL course by [Harvard](https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home)
 
