@@ -15,7 +15,7 @@ I am a Cyber Security Analyst Professional located in UK, driven by safety and c
 ## Currently Exploring
 
   - Exploring SPLUNK in depth (IoCs/dashboards/parsing/automating DLP/etc.)
-  - Django: in Visual Studio Code + Python + ORM (object relational mapping) + database SQL Light Tree + Sequel MongoDB as database backned engine
+  - Django: in Visual Studio Code + ORM (object relational mapping) to write Python code to create different databse models + database SQL Light Tree + Sequel MongoDB as database backned engine
   - Diving deeper into SQL course by [Harvard](https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home)
 - - -
 📚[For Rafa VR's Cyber Carousels Presentations, click here](https://rafavrport.github.io/skills-github-pages/)
