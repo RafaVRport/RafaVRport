@@ -9,7 +9,7 @@
 - - - 
 # Hi, I'm Rafa VR! 👋
 
-I am a Cyber Security Analyst Professional located in UK, driven by safety and consent over the internet, and a love for writing and content creation. My journey involves delving into the world of web applications, GRC, SIEM tools, penetration testing & new at bug bounty.
+I am a Cyber Security Analyst Professional located in UK, driven by safety and consent over the internet, and a love for writing and content creation. My journey involves delving into the world of web applications, GRC, SIEM tools, and penetration testing.
 
 ## About Me
 
@@ -18,7 +18,7 @@ I am a Cyber Security Analyst Professional located in UK, driven by safety and c
 
 ## Currently Exploring
 
-  - Django + Visual Studio Code + Python + database SQL Light Tree
+  - Django: in Visual Studio Code + Python + database SQL Light Tree + Sequel MongoDB as database backned engine
   - Exploring SPLUNK in depth (IoCs/dashboards/parsing/automating DLP/etc.)
   - Diving deeper into SQL course by [Harvard](https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home)
 
